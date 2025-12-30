@@ -15,6 +15,17 @@
   "type": "commonjs",
   "dependencies": {
     "mocha": "^11.7.5",
+    "pixelmatch": "^7.1.0",
+    "pngjs": "^7.0.0",
     "selenium-webdriver": "^4.39.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mahela7/WebUIAutomation.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mahela7/WebUIAutomation/issues"
+  },
+  "homepage": "https://github.com/mahela7/WebUIAutomation#readme"
 }
